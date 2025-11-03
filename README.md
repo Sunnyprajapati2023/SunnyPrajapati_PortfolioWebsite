@@ -1,16 +1,16 @@
-# 🌐 Sunny Prajapati Portfolio Website
+Sunny Prajapati Portfolio Website
 
 Welcome to my personal portfolio website!  
 This project showcases my **skills, projects, and contact information**, built as part of the **IT4048 – Version Control with Git and GitHub** mini project.
 
 ---
 
-## 🎯 Objective
+🎯 Objective
 To design and develop a **responsive personal portfolio website** using HTML, CSS, and JavaScript that highlights my technical and professional profile, and deploy it live using **GitHub Pages**.
 
 ---
 
-## 💡 Features
+💡 Features
 - 📱 Fully responsive design (works on desktop, tablet, and mobile)
 - 🌙 Dark theme with elegant UI
 - 🧭 Smooth navigation between sections
@@ -20,7 +20,7 @@ To design and develop a **responsive personal portfolio website** using HTML, CS
 
 ---
 
-## 🛠️ Technologies Used
+ 🛠️ Technologies Used
 - **HTML5** — for structure  
 - **CSS3** — for styling (dark theme + responsive layout)  
 - **JavaScript** — for interactivity  
@@ -28,7 +28,7 @@ To design and develop a **responsive personal portfolio website** using HTML, CS
 
 ---
 
-## 📂 Website Pages
+📂Website Pages
 | Page | Description |
 |------|--------------|
 | 🏠 **Home / About** | Displays my photo, bio, and professional tagline |
@@ -38,12 +38,16 @@ To design and develop a **responsive personal portfolio website** using HTML, CS
 | 📄 **Resume** | Provides option to view or download my resume (PDF) |
 
 ---
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ab83f73c-5bc7-48c5-b1ab-f456b04076ee" alt="Portfolio Preview" width="700"/>
+</p>
 
-## 🚀 Deployment
+
+
+ Deployment
 This website is hosted live using **GitHub Pages**.  
-
-🔗 **Live Website:** [https://sunnyprajapati2023.github.io/SunnyPrajapati_PortfolioWebsite/](https://sunnyprajapati2023.github.io/SunnyPrajapati_PortfolioWebsite/)  
-💾 **Repository:** [https://github.com/sunnyprajapati2023/SunnyPrajapati_PortfolioWebsite](https://github.com/sunnyprajapati2023/SunnyPrajapati_PortfolioWebsite)
+Live Website: [https://sunnyprajapati2023.github.io/SunnyPrajapati_PortfolioWebsite/](https://sunnyprajapati2023.github.io/SunnyPrajapati_PortfolioWebsite/)  
+Repository: [https://github.com/sunnyprajapati2023/SunnyPrajapati_PortfolioWebsite](https://github.com/sunnyprajapati2023/SunnyPrajapati_PortfolioWebsite)
 
 ---
 
@@ -56,16 +60,4 @@ This website is hosted live using **GitHub Pages**.
 
 ---
 
-## 📸 Preview
-![Portfolio Preview](./preview.png)
 
----
-
-### 🏁 How to View
-1. Open the live website link above.  
-2. Explore my skills, projects, and resume.  
-3. Connect with me for collaborations or opportunities!
-
----
-
-⭐ **If you like my portfolio, feel free to star this repository on GitHub!**
