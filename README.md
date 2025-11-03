@@ -1,4 +1,4 @@
-# ![profile](https://github.com/user-attachments/assets/7ee1af29-3d16-4ce5-a039-0afa756f3c3d)
+
  Sunny Prajapati Portfolio Website
 
 Welcome to my personal portfolio website!  
@@ -6,12 +6,12 @@ This project showcases my **skills**, **projects**, and **contact information**,
 
 ---
 
-## 🎯 **Objective**
+Objective
 To design and develop a **responsive personal portfolio website** using HTML, CSS, and JavaScript that highlights my technical and professional profile, and deploy it live using **GitHub Pages**.
 
 ---
 
-## 🧰 **Technologies Used**
+Technologies Used
 - HTML5  
 - CSS3 (Dark Theme + Responsive Design)  
 - JavaScript (for interactivity and responsiveness)  
@@ -19,7 +19,7 @@ To design and develop a **responsive personal portfolio website** using HTML, CS
 
 ---
 
-## 📑 **Website Pages**
+Website Pages
 | Page | Description |
 |------|--------------|
 | 🏠 **Home / About** | My photo, bio, and professional tagline. |
@@ -28,9 +28,7 @@ To design and develop a **responsive personal portfolio website** using HTML, CS
 | ✉️ **Contact** | Contact form and social media links. |
 | 📄 **Resume** | Downloadable resume in PDF format. |
 
----
-
-## 🚀 **Deployment**
+---Deployment
 This website is hosted using **GitHub Pages**.
 
 🔗 **Live Website:**  
