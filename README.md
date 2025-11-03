@@ -1,54 +1,71 @@
-
- Sunny Prajapati Portfolio Website
+# 🌐 Sunny Prajapati Portfolio Website
 
 Welcome to my personal portfolio website!  
-This project showcases my **skills**, **projects**, and **contact information**, built as part of the IT4048 - *Version Control with Git and GitHub* mini project.
+This project showcases my **skills, projects, and contact information**, built as part of the **IT4048 – Version Control with Git and GitHub** mini project.
 
 ---
 
-Objective
+## 🎯 Objective
 To design and develop a **responsive personal portfolio website** using HTML, CSS, and JavaScript that highlights my technical and professional profile, and deploy it live using **GitHub Pages**.
 
 ---
 
-Technologies Used
-- HTML5  
-- CSS3 (Dark Theme + Responsive Design)  
-- JavaScript (for interactivity and responsiveness)  
-- Git & GitHub (Version Control & Deployment)  
+## 💡 Features
+- 📱 Fully responsive design (works on desktop, tablet, and mobile)
+- 🌙 Dark theme with elegant UI
+- 🧭 Smooth navigation between sections
+- ⚙️ Interactive hover effects and animations
+- 📄 Downloadable Resume (PDF format)
+- 🔗 Active links to GitHub, LinkedIn, and Email
 
 ---
 
-Website Pages
+## 🛠️ Technologies Used
+- **HTML5** — for structure  
+- **CSS3** — for styling (dark theme + responsive layout)  
+- **JavaScript** — for interactivity  
+- **Git & GitHub** — for version control and deployment  
+
+---
+
+## 📂 Website Pages
 | Page | Description |
 |------|--------------|
-| 🏠 **Home / About** | My photo, bio, and professional tagline. |
-| 💡 **Skills** | Lists my technical and soft skills with icons. |
-| 💼 **Projects** | Displays my sample projects with GitHub links. |
-| ✉️ **Contact** | Contact form and social media links. |
-| 📄 **Resume** | Downloadable resume in PDF format. |
-
----Deployment
-This website is hosted using **GitHub Pages**.
-
-🔗 **Live Website:**  
-👉 [https://sunnyprajapati2023.github.io/SunnyPrajapati_PortfolioWebsite/](https://sunnyprajapati2023.github.io/SunnyPrajapati_PortfolioWebsite/)
-
-🔗 **GitHub Repository:**  
-👉 [https://github.com/sunnyprajapati2023/SunnyPrajapati_PortfolioWebsite](https://github.com/sunnyprajapati2023/SunnyPrajapati_PortfolioWebsite)
-
----
-<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/766f6434-45a0-46df-9289-84f6854dd90b" />
-
-
+| 🏠 **Home / About** | Displays my photo, bio, and professional tagline |
+| ⚙️ **Skills** | Lists my technical and soft skills with icons |
+| 💼 **Projects** | Showcases sample projects with short descriptions and GitHub links |
+| 📞 **Contact** | Includes contact form and social media links |
+| 📄 **Resume** | Provides option to view or download my resume (PDF) |
 
 ---
 
-## 👨‍💻 **Author**
-**Name:** Sunny Prajapati  
-**Email:** [prajapatisunny360@gmail.com](mailto:prajapatisunny360@gmail.com)  
-**University:** Uka Tarsadia University, 3rd Semester  
-**Phone:** +91 8957628056  
+## 🚀 Deployment
+This website is hosted live using **GitHub Pages**.  
 
+🔗 **Live Website:** [https://sunnyprajapati2023.github.io/SunnyPrajapati_PortfolioWebsite/](https://sunnyprajapati2023.github.io/SunnyPrajapati_PortfolioWebsite/)  
+💾 **Repository:** [https://github.com/sunnyprajapati2023/SunnyPrajapati_PortfolioWebsite](https://github.com/sunnyprajapati2023/SunnyPrajapati_PortfolioWebsite)
 
+---
 
+## 👨‍💻 Contact Information
+- **Name:** Sunny Prajapati  
+- **Email:** [prajapatisunny360@gmail.com](mailto:prajapatisunny360@gmail.com)  
+- **Phone:** +91 8957628056  
+- **University:** UKA Tarsadia University – 3rd Semester  
+- **GitHub:** [@sunnyprajapati2023](https://github.com/sunnyprajapati2023)
+
+---
+
+## 📸 Preview
+![Portfolio Preview](./preview.png)
+
+---
+
+### 🏁 How to View
+1. Open the live website link above.  
+2. Explore my skills, projects, and resume.  
+3. Connect with me for collaborations or opportunities!
+
+---
+
+⭐ **If you like my portfolio, feel free to star this repository on GitHub!**
