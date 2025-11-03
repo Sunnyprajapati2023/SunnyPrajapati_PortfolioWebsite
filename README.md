@@ -39,9 +39,9 @@ This website is hosted using **GitHub Pages**.
 👉 [https://github.com/sunnyprajapati2023/SunnyPrajapati_PortfolioWebsite](https://github.com/sunnyprajapati2023/SunnyPrajapati_PortfolioWebsite)
 
 ---
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/766f6434-45a0-46df-9289-84f6854dd90b" />
 
-## 📷 **Screenshots**
-(Add screenshots of your Home, Skills, Projects, Contact, and Resume pages here once deployed)
+
 
 ---
 
@@ -51,9 +51,5 @@ This website is hosted using **GitHub Pages**.
 **University:** Uka Tarsadia University, 3rd Semester  
 **Phone:** +91 8957628056  
 
----
 
-## 🏁 **How to Run Locally**
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/sunnyprajapati2023/SunnyPrajapati_PortfolioWebsite.git
+
