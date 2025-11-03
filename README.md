@@ -1,4 +1,5 @@
-# 🌐 Sunny Prajapati Portfolio Website
+# ![profile](https://github.com/user-attachments/assets/7ee1af29-3d16-4ce5-a039-0afa756f3c3d)
+ Sunny Prajapati Portfolio Website
 
 Welcome to my personal portfolio website!  
 This project showcases my **skills**, **projects**, and **contact information**, built as part of the IT4048 - *Version Control with Git and GitHub* mini project.
